@@ -1,0 +1,21 @@
+# Biên dịch nhị phân
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+livetracker-macos-amd64
+livetracker-macos-arm64
+livetracker-windows-amd64.exe
+
+# Cấu hình cục bộ và dữ liệu nhạy cảm
+config.json
+
+# Tệp của hệ điều hành
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
